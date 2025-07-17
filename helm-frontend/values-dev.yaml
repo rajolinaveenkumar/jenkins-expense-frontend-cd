@@ -1,5 +1,5 @@
 deployment:
-  image_url: 343430925817.dkr.ecr.us-east-1.amazonaws.com/expense-dev/backend
+  image_url: 343430925817.dkr.ecr.us-east-1.amazonaws.com/expense-dev/frontend
   imageversion: 1.0.0
 tgb:
   arn: arn:aws:elasticloadbalancing:us-east-1:343430925817:targetgroup/expense-dev-frontend-TG/8d40a20691340e89
